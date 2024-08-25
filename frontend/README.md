@@ -1,7 +1,3 @@
-
-### **Frontend `README.md`**
-
-```markdown
 # Frontend
 
 ## Overview
